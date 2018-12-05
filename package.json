@@ -1,7 +1,7 @@
 {
   "name": "popoto-neo4j-graph-app",
   "homepage": ".",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": false,
   "neo4jDesktop": {
     "apiVersion": "1.2.0"
