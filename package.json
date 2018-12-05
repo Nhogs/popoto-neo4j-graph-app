@@ -12,7 +12,7 @@
     "graph",
     "search"
   ],
-  "homepage": "https://github.com/Nhogs/popoto/wiki",
+  "homepage": ".",
   "bugs": {
     "url": "https://github.com/Nhogs/popoto-neo4j-graph-app/issues",
     "email": "contact@popotojs.com"
