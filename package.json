@@ -1,11 +1,39 @@
 {
   "name": "popoto-neo4j-graph-app",
-  "homepage": ".",
-  "version": "0.1.1",
+  "version": "0.1.2",
+  "description": "Graph based search interface graph app for Neo4j Desktop.",
+  "keywords": [
+    "popoto",
+    "d3",
+    "neo4j",
+    "app",
+    "desktop",
+    "cypher",
+    "graph",
+    "search"
+  ],
+  "homepage": "https://github.com/Nhogs/popoto/wiki",
+  "bugs": {
+    "url": "https://github.com/Nhogs/popoto-neo4j-graph-app/issues",
+    "email": "contact@popotojs.com"
+  },
+  "license": "GPL-3.0",
+  "author": {
+    "name": "Frederic Ciminera",
+    "email": "contact@popotojs.com"
+  },
+  "contributors": [],
   "private": false,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Nhogs/popoto-neo4j-graph-app.git"
+  },
   "neo4jDesktop": {
     "apiVersion": "1.2.0"
   },
+  "main": "build/index.html",
+  "unpkg": "build/index.html",
+  "jsdelivr": "build/index.html",
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
