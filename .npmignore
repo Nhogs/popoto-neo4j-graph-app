@@ -1,0 +1,11 @@
+.DS_Store
+.gitignore
+.npmignore
+.travis.yml
+*.lock
+coverage
+node_modules
+package-lock.json
+npm-debug.log
+test/
+public/

@@ -1,3 +1,6 @@
+# IntelliJ IDEA
+.idea
+
 # Logs
 logs
 *.log
@@ -54,8 +57,20 @@ typings/
 # Yarn Integrity file
 .yarn-integrity
 
-# dotenv environment variables file
-.env
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-# next.js build output
-.next
+# testing
+/coverage
+
+# production
+/build
+
+# misc
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+

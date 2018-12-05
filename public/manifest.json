@@ -1,0 +1,15 @@
+{
+  "short_name": "Popoto App",
+  "name": "Popoto Neo4j Graph App",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#F2541B",
+  "background_color": "#ffffff"
+}
