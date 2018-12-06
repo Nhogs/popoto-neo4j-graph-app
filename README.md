@@ -1,4 +1,4 @@
-<p align="center"><a href="https://popotojs.com" target="_blank"><img width="301"src="popoto.png"></a></p>
+<p align="center"><a href="https://popotojs.com" target="_blank"><img width="301"src="http://www.popotojs.com/logo.png"></a></p>
 
 [![Build Status](https://travis-ci.org/Nhogs/popoto-neo4j-graph-app.svg?branch=master)](https://travis-ci.org/Nhogs/popoto-neo4j-graph-app)
 [![npm version](https://img.shields.io/npm/v/popoto-neo4j-graph-app.svg)](https://www.npmjs.com/package/popoto-neo4j-graph-app)
