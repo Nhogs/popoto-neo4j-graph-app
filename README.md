@@ -1,3 +1,11 @@
+<p align="center"><a href="https://popotojs.com" target="_blank"><img width="301"src="http://www.popotojs.com/logo.png"></a></p>
+
+[![Build Status](https://travis-ci.org/Nhogs/popoto-neo4j-graph-app.svg?branch=master)](https://travis-ci.org/Nhogs/popoto-neo4j-graph-app)
+[![npm version](https://img.shields.io/npm/v/popoto-neo4j-graph-app.svg)](https://www.npmjs.com/package/popoto-neo4j-graph-app)
+[![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![dependencies](https://david-dm.org/Nhogs/popoto-neo4j-graph-app.svg)](https://david-dm.org/Nhogs/popoto-neo4j-graph-app)
+[![dependencies](https://david-dm.org/Nhogs/popoto-neo4j-graph-app/dev-status.svg)](https://david-dm.org/Nhogs/popoto-neo4j-graph-app?type=dev)
+
 # popoto-neo4j-graph-app
 Popoto Graph App for Neo4j Desktop
 
