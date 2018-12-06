@@ -29,8 +29,14 @@
     "url": "https://github.com/Nhogs/popoto-neo4j-graph-app.git"
   },
   "neo4jDesktop": {
-    "apiVersion": "1.2.0"
+    "apiVersion": "^1.2.0"
   },
+  "icons": [
+    {
+      "src": "popoto.png",
+      "type": "png"
+    }
+  ],
   "main": "build/index.html",
   "unpkg": "build/index.html",
   "jsdelivr": "build/index.html",
