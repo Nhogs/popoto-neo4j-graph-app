@@ -1,7 +1,18 @@
 {
-  "short_name": "Popoto App",
-  "name": "Popoto Neo4j Graph App",
+  "name": "popoto-neo4j-graph-app",
+  "short_name": "popoto-app",
+  "description": "Popoto.js in Neo4j Desktop graph app",
+  "version": "0.1.4",
   "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg"
+    },
+    {
+      "src": "/popoto.png",
+      "sizes": "264x264",
+      "type": "image/png"
+    },
     {
       "src": "/android-chrome-192x192.png",
       "sizes": "192x192",
@@ -13,8 +24,12 @@
       "type": "image/png"
     }
   ],
-  "start_url": ".",
+  "start_url": "./index.html",
+  "homepage": "https://github.com/Nhogs/popoto-neo4j-graph-app",
+  "neo4jDesktop": {
+    "apiVersion": "^1.2.0"
+  },
   "display": "standalone",
-  "theme_color": "#F2541B",
-  "background_color": "#ffffff"
+  "theme_color": "#525863",
+  "background_color": "#2e3138"
 }
