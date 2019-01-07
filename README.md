@@ -9,6 +9,8 @@
 # popoto-neo4j-graph-app
 Popoto Graph App for Neo4j Desktop
 
+:warning: Work in progress :warning:
+
 https://github.com/neo4j-apps/graph-app-starter
 
 ## Available Scripts
