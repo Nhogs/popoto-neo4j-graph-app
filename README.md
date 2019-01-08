@@ -7,35 +7,20 @@
 [![dependencies](https://david-dm.org/Nhogs/popoto-neo4j-graph-app/dev-status.svg)](https://david-dm.org/Nhogs/popoto-neo4j-graph-app?type=dev)
 
 # popoto-neo4j-graph-app
-Popoto Graph App for Neo4j Desktop
+Graph App to add [Popoto.js](https://github.com/Nhogs/popoto) in Neo4j Desktop   
 
-:warning: Work in progress :warning:
+See Popoto [wiki](https://github.com/Nhogs/popoto/wiki) for basic usage.
 
-https://github.com/neo4j-apps/graph-app-starter
+See [graph-app-starter](https://github.com/neo4j-apps/graph-app-starter) for details on Graph App development.
 
-## Available Scripts
+:construction: This version is still an empty shell for deployment setup, content will be updated in future releases :construction: 
 
-In the project directory, you can run:
+## How to install Popoto.js Graph App in Neo4j Desktop
 
-### `npm start`
+1. Open Neo4j Desktop
+2. Click on the "Graph Applications" tile on the left
+3. Scroll to the bottom of the page and enter the URL `https://registry.npmjs.org/popoto-neo4j-graph-app` into the box where it says **"Install Graph Application"**
+5. Click **"Install"** Button
 
-Runs the app in the development mode.<br>
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Install Graph Application](install-graph-application.png?raw=true "Install Graph Application")
 
-The page will reload if you make edits.<br>
-You will also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.<br>
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.<br>
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br>
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
