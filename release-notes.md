@@ -1,5 +1,9 @@
 # Popoto.js Graph App Release Notes
 
+## 0.1.8
+
+- Add active project and graph detection using neo4jDesktopApi and Redux 
+
 ## 0.1.7
 
 - Fix app configuration

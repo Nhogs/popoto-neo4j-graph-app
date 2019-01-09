@@ -19,7 +19,7 @@ See [graph-app-starter](https://github.com/neo4j-apps/graph-app-starter) for det
 
 1. Open Neo4j Desktop
 2. Click on the "Graph Applications" tile on the left
-3. Scroll to the bottom of the page and enter the URL `https://registry.npmjs.org/popoto-neo4j-graph-app` into the box where it says **"Install Graph Application"**
+3. Scroll to the bottom of the page and enter the URL <code>https://registry.npmjs.org/popoto-neo4j-graph-app</code> into the box where it says **"Install Graph Application"**
 5. Click **"Install"** Button
 
 ![Install Graph Application](install-graph-application.png?raw=true "Install Graph Application")
