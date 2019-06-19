@@ -1,7 +1,7 @@
 {
-  "name": "popoto-neo4j-graph-app",
-  "short_name": "popoto-app",
-  "description": "Popoto.js in Neo4j Desktop graph app",
+  "short_name": "Popoto",
+  "name": "Popoto Graph App",
+  "description": "Popoto.js in Neo4j Desktop Graph App",
   "homepage": "https://github.com/Nhogs/popoto-neo4j-graph-app",
   "icons": [
     {
@@ -17,5 +17,6 @@
   "start_url": "./index.html",
   "display": "standalone",
   "theme_color": "#525863",
-  "background_color": "#2e3138"
+  "background_color": "#2e3138",
+  "pluginDependencies": ["org.neo4j.procedure/apoc"]
 }

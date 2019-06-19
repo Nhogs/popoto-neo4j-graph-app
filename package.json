@@ -1,8 +1,9 @@
 {
   "name": "popoto-neo4j-graph-app",
   "homepage": ".",
-  "version": "0.1.8",
-  "description": "Graph based search interface graph app for Neo4j Desktop.",
+  "version": "0.1.9",
+  "private": false,
+  "description": "Popoto.js search interface for Neo4j Desktop Graph App.",
   "keywords": [
     "popoto",
     "d3",
@@ -11,7 +12,8 @@
     "desktop",
     "cypher",
     "graph",
-    "search"
+    "search",
+    "app"
   ],
   "bugs": {
     "url": "https://github.com/Nhogs/popoto-neo4j-graph-app/issues",
@@ -23,25 +25,32 @@
     "email": "contact@popotojs.com"
   },
   "contributors": [],
-  "private": false,
   "repository": {
     "type": "git",
     "url": "https://github.com/Nhogs/popoto-neo4j-graph-app.git"
   },
   "neo4jDesktop": {
-    "apiVersion": "^1.2.0"
+    "apiVersion": "^1.2.0",
+    "licenseRequired": false
   },
+  "icons": [
+    {
+      "src": "popoto.png",
+      "type": "png"
+    }
+  ],
   "dependencies": {
-    "popoto": "^2.0.17",
-    "react": "^16.7.0",
-    "react-dom": "^16.7.0",
-    "react-redux": "^6.0.0",
-    "react-scripts": "^2.1.3",
+    "popoto": "^2.0.18",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6",
+    "react-redux": "^7.1.0",
+    "react-scripts": "^3.0.1",
     "redux": "^4.0.1",
     "semantic-ui-css": "^2.4.1",
-    "semantic-ui-react": "^0.84.0"
+    "semantic-ui-react": "^0.87.2"
   },
   "scripts": {
+    "deploy-local": "build && npm publish --registry http://localhost:4873",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
